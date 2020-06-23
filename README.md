@@ -1,1 +1,1 @@
-# camscanner-app
+# camscanner-openCV
