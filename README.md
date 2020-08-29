@@ -13,5 +13,6 @@ Capture an image from the camera<br>
 - Cleans and smoothens the image using gaussian blur
 - finds the prominent corner points in the image using harris corner detection
 - Applies perspective transformation to get a bird's view
+<br>
 For more information, go [here](https://opencv.org/).
 
