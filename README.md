@@ -14,5 +14,4 @@ Capture an image from the camera<br>
 - finds the prominent corner points in the image using harris corner detection
 - Applies perspective transformation to get a bird's view
 <br>
-For more information, go [here](https://opencv.org/).
-
+For more information, refer https://opencv.org/ . 
